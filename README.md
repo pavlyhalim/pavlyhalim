@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi%20there%20👋&fontSize=90)
-
+<header>
+  <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png">
+</header> 
 **Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub Profile**](https://github.com/pavlyhalim?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/Pavly.Halim/) 
 
 
