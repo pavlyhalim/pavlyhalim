@@ -31,9 +31,8 @@
 
 <br/>
 <a href="https://github.com/pavlyhalim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavlyhalim&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlyhalim&theme=buefy&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt" />
 </a>
 
 
