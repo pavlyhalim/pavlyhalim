@@ -10,7 +10,7 @@
 
 
 ## Skills
-:♦: HTML
+:bowtie: HTML
 :smile: CSS
 :satisfied: JAVASCRIPT
 :laughing: Web Penetration tester
