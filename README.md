@@ -58,3 +58,4 @@ Here are some ideas to get you started:
 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png"><img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" alt="header" data-canonical-src="https://capsule-render.vercel.app/api?type=wave&amp;color=gradient&amp;height=280&amp;section=header&amp;text=Hi%20there%20%F0%9F%91%8B&amp;fontSize=90" style="max-width:100%;"></a>
 
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
