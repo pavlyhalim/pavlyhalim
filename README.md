@@ -8,12 +8,29 @@
 | [**Anonybox**](https://github.com/Praudyogikee-org/Anonybox) | [![GitHub issues](https://img.shields.io/github/issues/Praudyogikee-org/Anonybox?color=green&logo=github&style=flat)](https://github.com/Praudyogikee-org/Anonybox/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Praudyogikee-org/Anonybox?style=flat&logo=github)](https://github.com/Praudyogikee-org/Anonybox/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Praudyogikee-org/Anonybox?style=flat&color=critical&logo=github)](https://github.com/Praudyogikee-org/Anonybox/pulls?q=is%3Apr+is%3Aclosed)  |
 | [**Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence**](https://github.com/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence) | [![GitHub issues](https://img.shields.io/github/issues/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence?color=green&logo=github&style=flat)](https://github.com/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence?style=flat&logo=github)](https://github.com/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence?style=flat&color=critical&logo=github)](https://github.com/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence/pulls?q=is%3Apr+is%3Aclosed)   |
 
+
+## Skills
+:bowtie: HTML
+:smile: CSS
+:satisfied: JAVASCRIPT
+:laughing: Web Penetration tester
+:blush: Technical Writing
+:smiley: Git
+:relaxed: Linux
+:astonished: Python
+:smiley: C++
+:heart_eyes: Amazon Web Services (AWS)
+:hushed: UX&UI
+
+
+
 **Say Hi on Twitter([@pavlyhalim](https://twitter.com/pavlyhalim))!** :heart: 💬
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/pavlyhalim?style=social)](https://twitter.com/pavlyhalim)
 
+
 <br/>
-<a href="https://github.com/kabaka121212">
+<a href="https://github.com/pavlyhalim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavlyhalim&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlyhalim&theme=buefy&layout=compact" />
 </a>
@@ -30,4 +47,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Let's Connect :sunglasses:
+<p align="center">
+<a href="https://www.linkedin.com/in/pavly-halim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pavly-halim-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/pavlyo.halim/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-pavlyo.halim-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:18126@stemegypt.edu.eg"><img alt="Email" src="https://img.shields.io/badge/Email-18126@stemegypt.edu.eg-blue?style=flat-square&logo=gmail"></a>
+</p>
 
