@@ -1,6 +1,4 @@
-<header>
-  <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png">
-</header> 
+
 **Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub Profile**](https://github.com/pavlyhalim?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/Pavly.Halim/) 
 
 
@@ -35,7 +33,10 @@
 <a href="https://github.com/pavlyhalim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavlyhalim&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlyhalim&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
 </a>
+
+
 
 ## Let's Connect :sunglasses:
 <p align="center">
