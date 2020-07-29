@@ -32,7 +32,7 @@
 <br/>
 <a href="https://github.com/pavlyhalim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlyhalim&show_icons=true&theme=synthwave" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavlyhalim&show_icons=true&theme=synthwave" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavlyhalim&show_icons=true&theme=synthwavelayout=compact" />
 </a>
 
 
