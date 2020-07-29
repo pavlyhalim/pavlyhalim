@@ -1,4 +1,4 @@
-
+  
 **Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub Profile**](https://github.com/pavlyhalim?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/Pavly.Halim/) 
 
 
@@ -10,6 +10,7 @@
 
 
 ## Skills
+<p align="center">
 :bowtie: HTML
 :smile: CSS
 :satisfied: JAVASCRIPT
@@ -62,6 +63,7 @@ Here are some ideas to get you started:
 
 
 <footer>
+  <p align="center">
   <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png">
 </footer> 
 
