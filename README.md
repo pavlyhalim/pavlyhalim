@@ -12,6 +12,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/pavlyhalim?style=social)](https://twitter.com/pavlyhalim)
 
+<br/>
+<a href="https://github.com/kabaka121212">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavlyhalim&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlyhalim&theme=buefy&layout=compact" />
+</a>
+
 <!--
 **pavlyhalim/pavlyhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
