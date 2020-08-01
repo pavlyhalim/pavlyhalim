@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 
 <footer>
   <p align="center">
+  <img src="https://github.com/pavlyhalim/pavlyhalim/blob/master/octocat.png">
   <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png">
 </footer> 
 
